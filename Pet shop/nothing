@@ -1,0 +1,90 @@
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    background:#5F9EA0;
+  }
+  
+  #divBusca img{
+    float:left;
+  }
+
+
+
+
+  display: flex;
+  align-items: center;
+
+
+
+  justify-items: center;
+
+
+
+
+  border-style: solid;
+  border-radius: 1.5em;
+    
+  background-color: #208cb8;
+  padding: 0.3em;
+  color: white;
+  border-color: #ee7156;
+
+
+
+
+
+
+
+  <div class="card">
+        <div class="img-box">
+            <img src="src/images/image.png">
+        </div>
+        <div class="content">
+            <h2>Lorem ipsum</h2>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Temporibus molestias minus porro. Deserunt dolore eligendi sapiente hic totam.
+            </p>
+            <a href="#" class="read-more">
+                Read more
+            </a>
+        </div>
+    </div>
+
+
+
+
+    <div class="box-content-2">
+    <img id="racao" src="/img/pngegg.png" alt="">
+    <p id="descricao">
+        Ração Pedigree Equilíbrio Natural para Cães Adultos com mais de 7 Anos é um alimento que ajuda a equilibrar o organismo do seu cão de forma natural e irresistível. Isso porque adicionamos o que é bom: vegetais, grãos integrais e suculentos pedaços macios feitos com carne, fontes naturais de proteínas, carboidratos e vitaminas. Além disso, não tem gordura trans nem aromatizantes artificiais.
+    </p> 
+
+    <p id="preco">
+        R$ 92,90
+    </p>
+
+  
+</div>
